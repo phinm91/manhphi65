@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @manhphi65
+- 👋 Hi, I’m @Phi
 - 👀 I’m interested in Android, VideoGame
 - 🌱 I’m currently learning Java, Kotlin, C/C++, Swift
-- 📫 How to reach me manhphi65@gmail.com
+- 📫 How to reach me phinm@outlook.com
 
 <!---
 manhphi65/manhphi65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
