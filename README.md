@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phi
-- 👀 I’m interested in Android, VideoGame
+- 👀 I’m interested in Mobile Development, VideoGame
 - 🌱 I’m currently learning Java, Kotlin, C/C++, Swift
 - 📫 How to reach me phinm@outlook.com
 
